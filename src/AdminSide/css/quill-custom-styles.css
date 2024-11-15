@@ -1,0 +1,15 @@
+/* quill-custom-styles.css */
+.ql-editor ul, .ql-editor ol {
+    margin: 0;
+    padding-left: 1.5em;
+  }
+  
+  .ql-editor li::before {
+    content: '\2022'; /* Unicode character for a bullet point */
+    font-size: 1.5em;
+    line-height: 1.2em;
+    margin-right: 0.5em;
+    color: #333; /* Adjust color as needed */
+    visibility: visible !important;
+  }
+  

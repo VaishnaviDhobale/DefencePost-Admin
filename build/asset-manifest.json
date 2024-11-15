@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dp-admin/static/css/main.e28db375.css",
+    "main.js": "/dp-admin/static/js/main.1cf377a1.js",
+    "static/js/787.907613a9.chunk.js": "/dp-admin/static/js/787.907613a9.chunk.js",
+    "static/media/Logo-black.jpeg": "/dp-admin/static/media/Logo-black.39a7ee205721d782af4e.jpeg",
+    "static/media/img.jpg": "/dp-admin/static/media/img.6d00fbbdea68965c23e9.jpg",
+    "index.html": "/dp-admin/index.html",
+    "main.e28db375.css.map": "/dp-admin/static/css/main.e28db375.css.map",
+    "main.1cf377a1.js.map": "/dp-admin/static/js/main.1cf377a1.js.map",
+    "787.907613a9.chunk.js.map": "/dp-admin/static/js/787.907613a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e28db375.css",
+    "static/js/main.1cf377a1.js"
+  ]
+}
