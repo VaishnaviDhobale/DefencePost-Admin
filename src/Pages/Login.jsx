@@ -24,6 +24,7 @@ export function Login() {
   async function loginPostAdmin(){
     try{
       const loginData = await axios.post(`${baseUrl}/admin/login`, userData);
+      console.log(loginData)
       if (loginData.status === 200 && loginData.data.msg) {
         toast({
           title: "Login successful",
